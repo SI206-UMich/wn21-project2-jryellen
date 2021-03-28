@@ -4,7 +4,7 @@ import re
 import os
 import csv
 import unittest
-
+#Made by Julia Yellen
 
 def get_titles_from_search_results(filename):
     """
@@ -255,6 +255,7 @@ class TestCases(unittest.TestCase):
 
 if __name__ == '__main__':
     print(extra_credit("extra_credit.htm"))
+    #doing extra credit
     unittest.main(verbosity=2)
     
             
